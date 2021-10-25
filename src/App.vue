@@ -1,5 +1,4 @@
 <template>
-  <h1>To do List</h1>
   <TodoList />
 </template>
 
@@ -22,5 +21,8 @@ export default {
   text-align: center;
   color: #2c3e50;
   margin-top: 60px;
+}
+body {
+  background-color: #2e4e7e;
 }
 </style>
